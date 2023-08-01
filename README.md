@@ -39,7 +39,7 @@ cydno_female_1male.csv: female behavioral data from the one-male, "no-choice" ex
   - mating_latency: minutes from the beginning of the experiment to mating. Experiments in which mating never occurred were assigned a maximum value of 5000.
   - outcome: mating outcome (0: mating did not occur; 1: mating occurred)
 
-female_choice_red_white_males.csv: mating outcome from "two-choice" experiments
+female_choice_red_white_males.csv: Data from "two-choice" experiments
   - Date_exp: date when the experiment started (year_month_day)
   - Start_exp: hour at which the experiment started (hour_minute)
   - Mate_date: date when mating occurred (year_month_day or "No mating")
