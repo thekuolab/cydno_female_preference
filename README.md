@@ -29,9 +29,9 @@ cydno_female_1male.csv: female behavioral data from the one-male, "no-choice" ex
   - design: one_male, denoting that females only encountered one single male in the experiments
   - observation_time: total observation time in minutes. Numbers <= 120 meant that mating occurred during the initial two-hour period
   - female_id: unique ID of the female
-  - female_age: age of the female
+  - female_age: age of the female in days
   - male_id: unique ID of the male
-  - male_age: age of the male
+  - male_age: age of the male in days
   - treatment: wing coloura treatment that the male received (red or white)
   - total_male_behaviors: total number of courtship behaviours that the male performed
   - response_pos: number of acceptance behaviours that the female performed
@@ -46,11 +46,11 @@ female_choice_red_white_males.csv: Data from "two-choice" experiments
   - Mate time: hour at which mating occurred (hour_minute or "NA")
   - Preference: which male mated with the female (red, white, or NA)
   - White_male_ID: unique ID of the male from the white treatment
-  - White_male_age: age of the male from the white treatment
+  - White_male_age: age of the male in days from the white treatment
   - Red_male_ID: unique ID of the male from the red treatment
-  - Red_male_age: age of the male from the red treatment
+  - Red_male_age: age of the male in days from the red treatment
   - Female_ID: unique ID of the female
-  - Female_age: age of the female
+  - Female_age: age of the female in days
   - Mate duration: minutes from the beginning of the experiment to mating. Experiments in which mating never occurred were recorded as NA.
   - Cage: Number of the experimental cage
 
