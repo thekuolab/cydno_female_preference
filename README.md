@@ -61,3 +61,15 @@ stats_for_paper.R: R code for statistical analyses
 **Word document:**
 
 cydno paper_Suppl_080123.docx: Supplementart Materials for the paper (Supplementary Methods, Figure, and Tables)
+
+**Raw image files:**
+
+cydno_with_markers.jpg: H. cydno chioneus wings with eight areas painted with eight candidate red Copic markers and the colorless blender marker
+
+cydno_visible.NEF: painted H. cydno chioneus wings and a 40% gray standard photographed with a Baader filter permitting only visible light (400 - 700 nm)
+
+cydno_UV.NEF: painted H. cydno chioneus wings a 40% gray standard photographed with a Baader filter permitting only UV light (320 - 380 nm)
+
+melpomene_visible.NEF: H. melpomene rosina wing and a 40% gray standard photographed with a Baader filter permitting only visible light (400 - 700 nm)
+
+melpomene_UV.NEF: H. melpomene rosina wing and a 40% gray standard photographed with a Baader filter permitting only UV light (320 - 380 nm)
