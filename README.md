@@ -1,5 +1,5 @@
 # cydno_female_preference
-Datasets and analytical codes for the manuscript entitled "Divergent warning patterns influence male and female mating behaviors in a tropical butterfly"
+Datasets, images, videos, and analytical codes for the manuscript entitled "Divergent warning patterns influence male and female mating behaviors in a tropical butterfly"
 
 **Data files:**
 
@@ -73,3 +73,17 @@ cydno_UV.NEF: painted H. cydno chioneus wings a 40% gray standard photographed w
 melpomene_visible.NEF: H. melpomene rosina wing and a 40% gray standard photographed with a Baader filter permitting only visible light (400 - 700 nm)
 
 melpomene_UV.NEF: H. melpomene rosina wing and a 40% gray standard photographed with a Baader filter permitting only UV light (320 - 380 nm)
+
+**Sample raw video recordings:** 
+
+There are five videos that represented male preference behaviors from our raw recordings.
+
+approach_linger_away.mov: a male approaches a model female, lingers, and then flies away
+
+approach_then_away.mov: a male approaches a model female and then flies away
+
+away_then_approach.mov: a male changes his flight trajectory to approach the model female
+
+circling_around.mov: a male circles around the model female
+
+hovering.mov: a male hovers over the model female
